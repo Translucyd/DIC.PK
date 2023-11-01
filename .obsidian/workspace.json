@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0301c103fd65353e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "home.md"
+              }
             }
           },
           {
@@ -148,56 +165,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c4d7410fdfc66a",
+  "active": "0301c103fd65353e",
   "lastOpenFiles": [
-    "docs/README.md",
-    "docs/Departamento/Agentes/Renato.md",
-    "docs/Departamento/Agentes/Lina.md",
-    "docs/Departamento/Agentes/Valerie Feffer.md",
-    "docs/Departamento/Agentes/Alexander “Alec” da Silva.md",
-    "docs/Departamento/Agentes/Lore.md",
-    "docs/Departamento/D.I.C.P.K.md",
-    "docs/Departamento/Agentes",
-    "docs/Departamento",
+    "home.md",
+    "README.md",
+    "Pessoas/Escola CleverFancy/Trio de amigos.md",
+    "Pessoas/Escola CleverFancy/Mike Davis.md",
+    "Pessoas/Escola CleverFancy/Finn LeBlanc.md",
+    "Pessoas/Escola CleverFancy/Allan Takahashi.md",
+    "Pessoas/Família Gilies/Olavo Gilies.md",
+    "Pessoas/Família Gilies/Nicole Gilies.md",
+    "Pessoas/Família Gilies/Gael Gilies.md",
+    "Pessoas/Culto Mirian/Miriam.md",
+    "Pessoas/Culto Mirian/Luke Bellini.md",
+    "Pessoas/Culto Mirian/Kaio Correia.md",
+    "Pessoas/Circo Beauffort/Romain Fremont.md",
+    "Pessoas/Circo Beauffort/René Valette.md",
+    "Pessoas/Circo Beauffort/Leonor Bonnet.md",
+    "Pessoas/Circo Beauffort/Laurent Fremont.md",
+    "Pessoas/Circo Beauffort/Damien    Lamounier.md",
+    "Pessoas/Circo Beauffort/Emanuele Rousseau.md",
+    "Pessoas/Circo Beauffort/Annie Beauffort.md",
+    "Pessoas/Escola CleverFancy",
+    "Pessoas/Família Gilies",
+    "Pessoas/Culto Mirian",
+    "Pessoas/Circo Beauffort",
+    "Pessoas",
+    "Locais/Escritório de Olavo Gilies.md",
+    "Locais/Orfanato Ella Petit.md",
+    "Locais/Escola CleverFancy.md",
+    "Locais/Mansão Gilies.md",
+    "Locais/Circo Beauffort.md",
+    "Locais",
+    "Documentos/sessao_1.txt",
+    "Documentos/ID rasurado do Finn.png",
+    "Documentos/ID do Finn.png",
+    "Documentos/Carta de Olavo Gilies 5.png",
+    "Documentos/Carta de Olavo Gilies 3.png",
+    "Documentos/Carta de Olavo Gilies 4.png",
+    "Documentos/Carta de Olavo Gilies 2.png",
+    "Documentos/Carta de Olavo Gilies 1.png",
+    "Documentos",
+    "Departamento/Agentes/Valerie Feffer.md",
+    "Departamento/Agentes/Renato.md",
+    "Departamento/Agentes",
+    "Departamento",
+    "Crimes/Quadro Investigativo.canvas",
     "docs/Crimes/Quadro Investigativo.canvas",
-    "docs/Crimes/Caso B23 1.md",
-    "docs/Crimes",
     "docs/Documentos/Carta de Olavo Gilies 4.png",
     "docs/Documentos/Carta de Olavo Gilies 5.png",
-    "docs/Documentos/sessao_1.txt",
     "docs/Documentos/ID rasurado do Finn.png",
-    "docs/Documentos/ID do Finn.png",
-    "docs/Documentos/Carta de Olavo Gilies 3.png",
-    "docs/Documentos/Carta de Olavo Gilies 1.png",
-    "docs/Documentos/Carta de Olavo Gilies 2.png",
-    "docs/Documentos",
-    "docs/Pessoas/Família Gilies/Nicole Gilies.md",
-    "docs/Pessoas/Família Gilies/Olavo Gilies.md",
-    "docs/Pessoas/Família Gilies/Gael Gilies.md",
-    "docs/Pessoas/Escola CleverFancy/Trio de amigos.md",
-    "docs/Pessoas/Escola CleverFancy/Mike Davis.md",
-    "docs/Pessoas/Escola CleverFancy/Finn LeBlanc.md",
-    "docs/Pessoas/Escola CleverFancy/Allan Takahashi.md",
-    "docs/Pessoas/Culto Mirian/Luke Bellini.md",
-    "docs/Pessoas/Culto Mirian/Miriam.md",
-    "docs/Pessoas/Culto Mirian/Kaio Correia.md",
-    "docs/Pessoas/Circo Beauffort/Romain Fremont.md",
-    "docs/Pessoas/Circo Beauffort/René Valette.md",
-    "docs/Pessoas/Circo Beauffort/Leonor Bonnet.md",
-    "docs/Pessoas/Circo Beauffort/Laurent Fremont.md",
-    "docs/Pessoas/Circo Beauffort/Emanuele Rousseau.md",
-    "docs/Pessoas/Circo Beauffort/Damien    Lamounier.md",
-    "docs/Pessoas/Circo Beauffort/Annie Beauffort.md",
-    "docs/Pessoas/Família Gilies",
-    "docs/Pessoas/Escola CleverFancy",
-    "docs/Pessoas/Culto Mirian",
-    "docs/Pessoas/Circo Beauffort",
-    "docs/Pessoas",
-    "docs/Locais/Orfanato Ella Petit.md",
-    "Crimes/Quadro Investigativo.canvas",
-    "Documentos/ID do Finn.png",
-    "Documentos/ID rasurado do Finn.png",
-    "Documentos/Carta de Olavo Gilies 1.png",
     "Pessoas/Untitled.canvas",
     "Departamento/Untitled.canvas"
   ]
