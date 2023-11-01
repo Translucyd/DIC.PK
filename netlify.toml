@@ -8,7 +8,7 @@ LANDING_BUTTON = "acessar_servidor_criptografado"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Tudo, literalmente TUDO que descobrimos até agora."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "/Introdução/home.md"
 # (Optional) Site title on landing page
 LANDING_TITLE = "://dicpk/archives/crimes"
 PYTHON_VERSION = "3.8"
