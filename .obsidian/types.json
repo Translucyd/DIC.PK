@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Hora": "datetime",
+    "Local": "multitext",
+    "Causa da Morte": "text",
+    "Suspeitos": "multitext"
+  }
+}

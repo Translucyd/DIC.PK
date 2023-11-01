@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ecc147c1581a54e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "85866c00fcdef790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f0192913251ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento/D.I.C.P.K.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0703dc626edd1401",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "805a87b2e77d5d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1fc0d78dbff066c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3f8e99ff3c77bda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20d044166a026578",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1733ee915523d320",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "405079be8712b8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4483d05c480f8c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88342e6392523749",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Departamento/D.I.C.P.K.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fcf1e61589871b40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Departamento/D.I.C.P.K.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71788ef0abfb3dab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d2698251dd139b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Departamento/D.I.C.P.K.md"
+              }
+            }
+          },
+          {
+            "id": "27801d8efeb553ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "66f0192913251ea4",
+  "lastOpenFiles": [
+    "Locais/Escritório de Olavo Gilies.md",
+    "Locais/Mansão Gilies.md",
+    "Locais/Orfanato Ella Petit.md",
+    "Locais/Escola CleverFancy.md",
+    "Locais/Circo Beauffort.md",
+    "Departamento/D.I.C.P.K.md",
+    "Crimes/Caso B23 1.md",
+    "Crimes/Quadro Investigativo.canvas",
+    "Documentos/ID do Finn.png",
+    "Departamento/Agentes/Valerie Feffer.md",
+    "Pessoas/Culto Mirian/Miriam.md",
+    "Pessoas/Culto Mirian/Kaio Correia.md",
+    "Pessoas/Culto Mirian/Luke Bellini.md",
+    "Pessoas/Culto Mirian",
+    "Pessoas/Circo Beauffort/Emanuele Rousseau.md",
+    "Pessoas/Circo Beauffort/Damien    Lamounier.md",
+    "Pessoas/Circo Beauffort/René Valette.md",
+    "Pessoas/Circo Beauffort/Leonor Bonnet.md",
+    "Pessoas/Circo Beauffort/Annie Beauffort.md",
+    "Pessoas/Circo Beauffort/Laurent Fremont.md",
+    "Pessoas/Escola CleverFancy/Finn LeBlanc.md",
+    "Pessoas/Circo Beauffort/Romain Fremont.md",
+    "Pessoas/Escola CleverFancy/Mike Davis.md",
+    "Documentos/ID rasurado do Finn.png",
+    "Pessoas/Circo Beauffort",
+    "Pessoas/Escola CleverFancy/Allan Takahashi.md",
+    "Notas Vini.md",
+    "Documentos/Carta de Olavo Gilies 1.png",
+    "Documentos/sessao_1.txt",
+    "Departamento/Agentes/Alexander “Alec” da Silva.md",
+    "Documentos/Carta de Olavo Gilies 5.png",
+    "Documentos/Carta de Olavo Gilies 4.png",
+    "Documentos/Carta de Olavo Gilies 3.png",
+    "Documentos/Carta de Olavo Gilies 2.png",
+    "Pessoas/Família Gilies/Olavo Gilies.md",
+    "Pessoas/Família Gilies/Gael Gilies.md",
+    "Documentos",
+    "Pasted image 20231013013556.png",
+    "Crimes",
+    "Pessoas/Untitled.canvas",
+    "Departamento/Untitled.canvas",
+    "Departamento/Agentes",
+    "Departamento",
+    "Locais",
+    "Pessoas/Escola CleverFancy",
+    "Pessoas/Família Gilies"
+  ]
+}
