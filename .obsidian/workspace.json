@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "85866c00fcdef790",
+        "id": "73bb9cf294df4570",
         "type": "tabs",
         "children": [
           {
-            "id": "66f0192913251ea4",
+            "id": "67c4d7410fdfc66a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento/D.I.C.P.K.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0703dc626edd1401",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento/D.I.C.P.K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento/D.I.C.P.K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Departamento/D.I.C.P.K.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,14 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66f0192913251ea4",
+  "active": "67c4d7410fdfc66a",
   "lastOpenFiles": [
+    "netlify.toml",
+    "Novo(a) Text Document.txt",
+    "README.md",
+    "Departamento/D.I.C.P.K.md",
     "Locais/Escritório de Olavo Gilies.md",
     "Locais/Mansão Gilies.md",
     "Locais/Orfanato Ella Petit.md",
     "Locais/Escola CleverFancy.md",
     "Locais/Circo Beauffort.md",
-    "Departamento/D.I.C.P.K.md",
     "Crimes/Caso B23 1.md",
     "Crimes/Quadro Investigativo.canvas",
     "Documentos/ID do Finn.png",
@@ -203,7 +188,6 @@
     "Documentos/Carta de Olavo Gilies 3.png",
     "Documentos/Carta de Olavo Gilies 2.png",
     "Pessoas/Família Gilies/Olavo Gilies.md",
-    "Pessoas/Família Gilies/Gael Gilies.md",
     "Documentos",
     "Pasted image 20231013013556.png",
     "Crimes",
@@ -212,7 +196,6 @@
     "Departamento/Agentes",
     "Departamento",
     "Locais",
-    "Pessoas/Escola CleverFancy",
-    "Pessoas/Família Gilies"
+    "Pessoas/Escola CleverFancy"
   ]
 }
