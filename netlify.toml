@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "Acessar servidor criptografado"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "Tudo, literalmente TUDO que descobrimos até agora."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "README"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "://D.I.C-P.K/archives/crimes"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Translucyd/DIC.PK"
@@ -36,7 +36,7 @@ PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
-FOOTER = ""
+FOOTER = "Propiedade intelectual de Valerie Feffer® - 2023"
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
 # (Optional) visjs graph options. Can remove if desired.
