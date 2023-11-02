@@ -11,11 +11,28 @@
             "id": "67c4d7410fdfc66a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Crimes/Caso B23 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d2e398e524431c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pessoas/Circo Beauffort/Romain Fremont.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pessoas/Circo Beauffort/Romain Fremont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pessoas/Circo Beauffort/Romain Fremont.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pessoas/Circo Beauffort/Romain Fremont.md"
+              }
             }
           },
           {
@@ -148,8 +169,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c4d7410fdfc66a",
+  "active": "8d2e398e524431c1",
   "lastOpenFiles": [
+    "Pessoas/Circo Beauffort/René Valette.md",
+    "Pessoas/Circo Beauffort/Leonor Bonnet.md",
+    "Pessoas/Circo Beauffort/Laurent Fremont.md",
+    "Pessoas/Circo Beauffort/Emanuele Rousseau.md",
+    "Pessoas/Circo Beauffort/Damien Lamounier.md",
+    "Pessoas/Circo Beauffort/Annie Beauffort.md",
+    "Crimes/Caso B23 1.md",
+    "Crimes/Quadro Investigativo.canvas",
+    "Introdução.md",
+    "Pessoas/Circo Beauffort/Damien    Lamounier.md",
+    "Pessoas/Circo Beauffort/Damien-Lamounier.md",
+    "Locais/Circo Beauffort.md",
     "home.md",
     "Introdução/home.md",
     "Introdução",
@@ -166,22 +199,11 @@
     "Pessoas/Culto Mirian/Luke Bellini.md",
     "Pessoas/Culto Mirian/Kaio Correia.md",
     "Pessoas/Circo Beauffort/Romain Fremont.md",
-    "Pessoas/Circo Beauffort/René Valette.md",
-    "Pessoas/Circo Beauffort/Leonor Bonnet.md",
-    "Pessoas/Circo Beauffort/Laurent Fremont.md",
-    "Pessoas/Circo Beauffort/Damien    Lamounier.md",
-    "Pessoas/Circo Beauffort/Emanuele Rousseau.md",
-    "Pessoas/Circo Beauffort/Annie Beauffort.md",
     "Pessoas/Escola CleverFancy",
     "Pessoas/Família Gilies",
     "Pessoas/Culto Mirian",
     "Pessoas/Circo Beauffort",
     "Pessoas",
-    "Locais/Escritório de Olavo Gilies.md",
-    "Locais/Orfanato Ella Petit.md",
-    "Locais/Escola CleverFancy.md",
-    "Locais/Mansão Gilies.md",
-    "Locais/Circo Beauffort.md",
     "Locais",
     "Documentos/sessao_1.txt",
     "Documentos/ID rasurado do Finn.png",
@@ -192,8 +214,6 @@
     "Documentos/Carta de Olavo Gilies 2.png",
     "Documentos/Carta de Olavo Gilies 1.png",
     "Documentos",
-    "Departamento/Agentes/Valerie Feffer.md",
-    "Crimes/Quadro Investigativo.canvas",
     "docs/Crimes/Quadro Investigativo.canvas",
     "docs/Documentos/Carta de Olavo Gilies 4.png",
     "docs/Documentos/Carta de Olavo Gilies 5.png",

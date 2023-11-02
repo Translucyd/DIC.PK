@@ -51,7 +51,7 @@ Ferimentos: |-
 | 21:06 |  Finn Desmaia
 | 21:07 |  Luke arrasta Olavo para o centro da sala
 | 21:08 |  Luke espanca Olavo com o pé de cabra
-			  Mike tenta impedir
+			   Mike tenta impedir
 | 21:09 |  Kaio apaga Mike com um pano na boca (clorofórmio?)
 | 00:00 |  Finn acorda em casa
 
