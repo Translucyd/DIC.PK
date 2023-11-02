@@ -10,14 +10,14 @@ LANDING_DESCRIPTION = "Tudo, literalmente TUDO que descobrimos até agora."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "introducao/"
 # (Optional) Site title on landing page
-LANDING_TITLE = "://dicpk/archives/crimes"
+LANDING_TITLE = "://dicpk/archives/secured/"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Translucyd/DIC.PK"
 # (Optional) Site title in navbar
 SITE_TITLE = "OMDC - Compilação da Valerie"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = "D.I.C-P.K"
+SITE_TITLE_TAB = "D.I.C.P.K"
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://dic-pk.netlify.app"
 # (Optional) Site Timezone
@@ -42,6 +42,7 @@ ROOT_SECTION_NAME = "Início"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
+			autoResize: true,
         	nodes: {
         		shape: "dot",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
@@ -61,6 +62,7 @@ GRAPH_OPTIONS = """
         		width: 0.8,
         		smooth: {
         			type: "continuous",
+				roundness: 1
         		},
         		hoverWidth: 4,
         	},
@@ -70,7 +72,8 @@ GRAPH_OPTIONS = """
         	height: "100%",
         	width: "100%",
         	physics: {
-        		solver: "repulsion",
+				solver: "forceAtlas2Based",
+				stabilization: false
         	},
         }
         """
